@@ -1,0 +1,5 @@
+net_service_name= 
+ (DESCRIPTION= 
+   (ADDRESS=(protocol_address_information))
+   (CONNECT_DATA= 
+     (SERVICE_NAME=service_name))) 
