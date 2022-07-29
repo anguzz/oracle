@@ -1,2 +1,2 @@
 # oracle
-some oracle testing stuff
+some oracle test stuff
